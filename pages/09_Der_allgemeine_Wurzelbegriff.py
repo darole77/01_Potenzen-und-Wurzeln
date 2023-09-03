@@ -10,7 +10,7 @@ st.markdown("Das **Wurzelziehen** ist die **Umkehrung des Potenzierens**.")
 st.latex(r"""\color{blue}\mathrm{2^5=32 \: \rightarrow \: \sqrt[5]{32}=2}""")
 st.latex(r"""\color{blue}\mathrm{3^4=81 \: \rightarrow \: \sqrt[4]{81}=3}""")
 st.markdown("Allgemein:")
-st.markdown("Die **$$\mathrm{n}$$-te Wurzel** aus einer positiven Zahl $$\mathrm{a}$$ (geschrieben $$\sqrt[n]{a}$$ ) ist diejenige positive Zahl, deren $$\mathrm{n}$$-te Potenz gleich $$\mathrm{a}$$ ist.")
+st.markdown("Die **$$\mathrm{n}$$-te Wurzel** aus einer positiven Zahl $$\mathrm{a}$$ (geschrieben $$\mathrm{\sqrt[n]{a}}$$ ) ist diejenige positive Zahl, deren $$\mathrm{n}$$-te Potenz gleich $$\mathrm{a}$$ ist.")
 
 st.markdown("Bezeichnungen:")
 image_url = "https://i.postimg.cc/gkwtCRrG/02-01-Allgemeine-Wurzeln-01-jpg.gif"
