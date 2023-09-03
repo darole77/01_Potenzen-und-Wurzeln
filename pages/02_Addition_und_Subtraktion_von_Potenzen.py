@@ -22,4 +22,5 @@ with col1:
     image_url = "https://i.postimg.cc/m2xLjR7y/Logo-LS.jpg"
     st.image(image_url, width=200)
 with col2:
-    st.markdown("[Addition und Subtraktion von Potenzen](hhttps://www.learningsnacks.de/share/380267/a03575ac6b0468b89f473e8ff35a7b2c643645c0)")
+    st.markdown("[Addition und Subtraktion von Potenzen](https://www.learningsnacks.de/share/380267/a03575ac6b0468b89f473e8ff35a7b2c643645c0)")
+
